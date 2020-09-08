@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Cristian Perca",
+    "occupation": "Application/DevOps Production engineer",
+    "description": "Unix applications and DevOps engineer & hobby Full Stack React apprentice / Developer",
+    "image": "",
+    "bio": "My name is Cristian, I'm a Unix production devops engineer. I like coding and currently working on my spare time for improving my React knowledge for some applications that are throtling on my mind",
+    "contactmessage": "Get in touch with me...",
+    "email": "cristianperca@yahoo.com",
+    "phone": "+33...",
+    "address": {
+      "street": "",
+      "city": "Evry",
+      "state": "FR",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/cristianperca",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Université Paris Sud Orsay",
+        "degree": "PhD in Chemistry",
+        "graduated": "January 2005",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "PMU",
+        "title": "Unix Application & DevOps Engineer",
+        "years": "2017 - Present",
+        "description": ""
+      },
+      {
+        "company": "Orange",
+        "title": "Unix Application Engineer",
+        "years": "2016 - 2017",
+        "description": ""
+      },
+      {
+        "company": "BNP Paris",
+        "title": "Unix Application Engineer",
+        "years": "2011 - 2016",
+        "description": ""
+      },
+      {
+        "company": "University",
+        "title": "Research Scientist",
+        "years": "2005 - 2011",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Shell scripting",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "25%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "AWS",
+        "level": "20%"
+      },
+      {
+        "name": "HTML5",
+        "level": "30%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "10%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
