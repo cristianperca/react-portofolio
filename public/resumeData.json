@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Cristian Perca",
+    "occupation": "Application/DevOps Production engineer",
+    "description": "Unix applications and DevOps engineer & hobby Full Stack React apprentice / Developer",
+    "image": "",
+    "bio": "My name is Cristian, I'm a Unix production devops engineer. I like coding and currently working on my spare time for improving my React knowledge for some applications that are throtling on my mind",
+    "contactmessage": "Get in touch with me...",
+    "email": "cristianperca@yahoo.com",
+    "phone": "+33...",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "",
+      "city": "Evry",
+      "state": "FR",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/cristianperca",
         "className": "fa fa-github"
       }
     ]
@@ -43,50 +43,66 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Université Paris Sud Orsay",
+        "degree": "PhD in Chemistry",
+        "graduated": "January 2005",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "PMU",
+        "title": "Unix Application & DevOps Engineer",
+        "years": "2017 - Present",
+        "description": ""
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Orange",
+        "title": "Unix Application Engineer",
+        "years": "2016 - 2017",
+        "description": ""
+      },
+      {
+        "company": "BNP Paris",
+        "title": "Unix Application Engineer",
+        "years": "2011 - 2016",
+        "description": ""
+      },
+      {
+        "company": "University",
+        "title": "Research Scientist",
+        "years": "2005 - 2011",
+        "description": ""
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
+        "name": "Shell scripting",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "CSS",
+        "level": "25%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "AWS",
+        "level": "20%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "30%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "10%"
       }
     ]
   },
