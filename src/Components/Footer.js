@@ -22,7 +22,10 @@ class Footer extends Component {
 
             <ul>
               <li>
-                Modified with love by the Clever Programmer team <span>♥️</span>
+                Modified with love by the Clever Programmer team{" "}
+                <span role="img" aria-label="heart">
+                  ♥️
+                </span>
               </li>
             </ul>
 
